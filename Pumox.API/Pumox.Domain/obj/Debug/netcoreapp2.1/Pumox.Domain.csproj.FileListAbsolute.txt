@@ -1,0 +1,11 @@
+C:\Users\BRITENET\Music\Pumox2\Pumox.API\Pumox.Domain\bin\Debug\netcoreapp2.1\Pumox.Domain.deps.json
+C:\Users\BRITENET\Music\Pumox2\Pumox.API\Pumox.Domain\bin\Debug\netcoreapp2.1\Pumox.Domain.dll
+C:\Users\BRITENET\Music\Pumox2\Pumox.API\Pumox.Domain\obj\Debug\netcoreapp2.1\Pumox.Domain.csprojAssemblyReference.cache
+C:\Users\BRITENET\Music\Pumox2\Pumox.API\Pumox.Domain\obj\Debug\netcoreapp2.1\Pumox.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BRITENET\Music\Pumox2\Pumox.API\Pumox.Domain\obj\Debug\netcoreapp2.1\Pumox.Domain.AssemblyInfoInputs.cache
+C:\Users\BRITENET\Music\Pumox2\Pumox.API\Pumox.Domain\obj\Debug\netcoreapp2.1\Pumox.Domain.AssemblyInfo.cs
+C:\Users\BRITENET\Music\Pumox2\Pumox.API\Pumox.Domain\bin\Debug\netcoreapp2.1\Pumox.Domain.runtimeconfig.json
+C:\Users\BRITENET\Music\Pumox2\Pumox.API\Pumox.Domain\bin\Debug\netcoreapp2.1\Pumox.Domain.runtimeconfig.dev.json
+C:\Users\BRITENET\Music\Pumox2\Pumox.API\Pumox.Domain\bin\Debug\netcoreapp2.1\Pumox.Domain.pdb
+C:\Users\BRITENET\Music\Pumox2\Pumox.API\Pumox.Domain\obj\Debug\netcoreapp2.1\Pumox.Domain.dll
+C:\Users\BRITENET\Music\Pumox2\Pumox.API\Pumox.Domain\obj\Debug\netcoreapp2.1\Pumox.Domain.pdb
