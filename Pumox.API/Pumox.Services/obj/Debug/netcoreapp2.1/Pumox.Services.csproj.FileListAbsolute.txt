@@ -1,0 +1,12 @@
+C:\Users\BRITENET\Desktop\PumoxGitHub\TestDev\Pumox.API\Pumox.Services\bin\Debug\netcoreapp2.1\Pumox.Services.deps.json
+C:\Users\BRITENET\Desktop\PumoxGitHub\TestDev\Pumox.API\Pumox.Services\bin\Debug\netcoreapp2.1\Pumox.Services.dll
+C:\Users\BRITENET\Desktop\PumoxGitHub\TestDev\Pumox.API\Pumox.Services\bin\Debug\netcoreapp2.1\Pumox.Domain.dll
+C:\Users\BRITENET\Desktop\PumoxGitHub\TestDev\Pumox.API\Pumox.Services\bin\Debug\netcoreapp2.1\Pumox.Domain.pdb
+C:\Users\BRITENET\Desktop\PumoxGitHub\TestDev\Pumox.API\Pumox.Services\obj\Debug\netcoreapp2.1\Pumox.Services.csprojAssemblyReference.cache
+C:\Users\BRITENET\Desktop\PumoxGitHub\TestDev\Pumox.API\Pumox.Services\obj\Debug\netcoreapp2.1\Pumox.Services.csproj.CoreCompileInputs.cache
+C:\Users\BRITENET\Desktop\PumoxGitHub\TestDev\Pumox.API\Pumox.Services\obj\Debug\netcoreapp2.1\Pumox.Services.AssemblyInfoInputs.cache
+C:\Users\BRITENET\Desktop\PumoxGitHub\TestDev\Pumox.API\Pumox.Services\obj\Debug\netcoreapp2.1\Pumox.Services.AssemblyInfo.cs
+C:\Users\BRITENET\Desktop\PumoxGitHub\TestDev\Pumox.API\Pumox.Services\obj\Debug\netcoreapp2.1\Pumox.Services.csproj.CopyComplete
+C:\Users\BRITENET\Desktop\PumoxGitHub\TestDev\Pumox.API\Pumox.Services\bin\Debug\netcoreapp2.1\Pumox.Services.pdb
+C:\Users\BRITENET\Desktop\PumoxGitHub\TestDev\Pumox.API\Pumox.Services\obj\Debug\netcoreapp2.1\Pumox.Services.dll
+C:\Users\BRITENET\Desktop\PumoxGitHub\TestDev\Pumox.API\Pumox.Services\obj\Debug\netcoreapp2.1\Pumox.Services.pdb

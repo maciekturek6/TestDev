@@ -3391,11 +3391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BRITENET\\Music\\Pumox2\\Pumox.API\\Pumox.Domain\\Pumox.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\BRITENET\\Desktop\\PumoxGitHub\\TestDev\\Pumox.API\\Pumox.Domain\\Pumox.Domain.csproj",
       "projectName": "Pumox.Domain",
-      "projectPath": "C:\\Users\\BRITENET\\Music\\Pumox2\\Pumox.API\\Pumox.Domain\\Pumox.Domain.csproj",
+      "projectPath": "C:\\Users\\BRITENET\\Desktop\\PumoxGitHub\\TestDev\\Pumox.API\\Pumox.Domain\\Pumox.Domain.csproj",
       "packagesPath": "C:\\Users\\BRITENET\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BRITENET\\Music\\Pumox2\\Pumox.API\\Pumox.Domain\\obj\\",
+      "outputPath": "C:\\Users\\BRITENET\\Desktop\\PumoxGitHub\\TestDev\\Pumox.API\\Pumox.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
