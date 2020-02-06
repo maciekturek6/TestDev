@@ -33,7 +33,6 @@ namespace Pumox.API.Controller
                 return BadRequest(ModelState);
 
             Log.Debug("Entering create new company action...");
-            Log.Debug(viewModel.ToString());
 
             try
             {
