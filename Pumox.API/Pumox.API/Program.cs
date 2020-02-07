@@ -38,11 +38,6 @@ namespace Pumox.API
                     var context = services.GetRequiredService<PumoxDbContext>();
 
                     context.Database.Migrate();
-                    //TODO
-                    //DbInitializer.SeedInitialData(context, configuration);
-
-                    //if (configuration.GetValue<bool>("DbInitializer:SeedData"))
-                    //    DbInitializer.SeedExampleData(context, configuration);
                 }
                 catch (Exception ex)
                 {
